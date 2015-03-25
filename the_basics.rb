@@ -65,4 +65,4 @@ puts float.round(4)
 
 # exercise_7
 
-puts "Was expecting a closing curley brace so must be a hash that has the wrong closing bracket"
+puts "Answer for exercise 7 is: Was expecting a closing curley brace so must be a hash that has the wrong closing bracket"
