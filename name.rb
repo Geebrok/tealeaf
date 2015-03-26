@@ -45,4 +45,4 @@ puts x
 
 # exercise_6
 
-# That th eprogram is looking for a variable/method named shoes but cannot find it
+# That the program is looking for a variable/method named shoes but cannot find it
